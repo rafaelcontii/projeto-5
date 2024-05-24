@@ -1,0 +1,7 @@
+#include "trabalho.h"
+#include <stdio.h>
+
+int main() {
+  int escolha, tipo;
+  char telefone[MAX_LENGTH];
+  TipoContato tipoContato;
